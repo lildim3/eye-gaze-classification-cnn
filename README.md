@@ -120,6 +120,10 @@ The similarity between training and test confusion matrices also suggests that t
 - Early Stopping
 - Adam optimizer
 - strong classification performance
+## Dataset
+
+This project uses the **Eye Gaze Detection** dataset available on Kaggle:  
+[https://www.kaggle.com/datasets/hazemfahmy/eye-gaze-detection](https://www.kaggle.com/datasets/hazemfahmy/eye-gaze-detection)
 
 ## Suggested Repository Structure
 
